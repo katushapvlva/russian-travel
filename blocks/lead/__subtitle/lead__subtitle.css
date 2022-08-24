@@ -1,0 +1,11 @@
+.lead__subtitle {
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 64px;
+  width: 640px;
+  height: 72px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
