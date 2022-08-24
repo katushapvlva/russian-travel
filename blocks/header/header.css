@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   padding-top: 28px;
-  margin: 0px 48px;
-  max-width: 1184px;
-  max-height: 52px;
+  margin: 0px auto;
+  width: 1184px;
+  height: 52px;
 }
