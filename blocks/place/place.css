@@ -1,0 +1,11 @@
+.place {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, auto);
+  gap: 48px 40px;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.place:last-child {
+  margin-bottom: 0px;
+}
