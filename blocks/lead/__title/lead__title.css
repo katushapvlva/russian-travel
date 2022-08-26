@@ -2,8 +2,7 @@
   text-align: center;
   margin-top: 0px;
   margin-bottom: 32px;
-  width: 720px;
-  height: 200px;
+  max-width: 720px;
   font-weight: 900;
   font-size: 96px;
   line-height: 100px;
@@ -12,8 +11,7 @@
 @media screen and (max-width: 767px) {
   .lead__title {
     margin-bottom: 16px;
-    width: 288px;
-    height: 88px;
+    max-width: 288px;
     font-size: 40px;
     line-height: 44px;
   }
