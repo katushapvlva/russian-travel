@@ -4,6 +4,18 @@
   align-items: center;
   padding-top: 56px;
   margin: 0 auto;
-  width: 984px;
-  height: 1005px;
+  width: calc(100% - 296px)
+}
+
+@media screen and (max-width: 1279px) {
+  .lead {
+    padding-top: 48px;
+    width: calc(100% - 96px);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead {
+    width: 100%;
+  }
 }
