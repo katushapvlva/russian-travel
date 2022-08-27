@@ -6,3 +6,10 @@
   margin-bottom: 0px;
   padding-left: 0px;
 }
+
+@media screen  and (max-width: 767px) {
+  .footer__links {
+    flex-direction: column;
+    margin-bottom: 48px;
+  }
+}
