@@ -1,9 +1,14 @@
 .footer__link {
-  color: white;
+  color: #FFFFFF;
   text-decoration: none;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
+  transition: opacity 2s linear;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
