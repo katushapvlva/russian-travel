@@ -1,4 +1,5 @@
 .place__image {
   max-width: 100%;
   object-fit: cover;
+  align-self: flex-start;
 }
